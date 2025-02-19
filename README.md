@@ -1,3 +1,10 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" align="center" width="1000" />
+<!--img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"-->
+</div><h1 align="center">I'm Guransh Goyal</h1>
+<h3 align="center">A computer science student wondering what to do</h3>
+<!-- <h3 align="center">I'm an AI-ML and Finance geek.</h3> -->
+
 # 💫 About Me:
 🔭 I’m currently working on machine learning<br>👯 I’m looking to collaborate on project<br>🤝 I’m looking for help with web development (MERN techstack)<br>🌱 I’m currently learning neural networks<br>💬 Ask me about entrepreneurship<br>⚡ Fun fact: nothing much
 
