@@ -6,7 +6,7 @@
 <!-- <h3 align="center">I'm an AI-ML and Finance geek.</h3> -->
 
 # 💫 About Me:
-🔭 I’m currently working on machine learning<br>👯 I’m looking to collaborate on project<br>🤝 I’m looking for help with web development (MERN techstack)<br>🌱 I’m currently learning neural networks<br>💬 Ask me about entrepreneurship<br>⚡ Fun fact: nothing much
+🔭 I’m currently working on machine learning and 🌱 neural networks.<br>👯 I’m looking to collaborate on projects.<br>🤝 I’m looking for help with web development (MERN techstack)<br>💬 Ask me about entrepreneurship<br>⚡ Fun fact: Nothing much!
 
 
 ## 🌐 Socials:
