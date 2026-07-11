@@ -3,7 +3,7 @@
 
 ---
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Guransh+Goyal;Exploring,+Building...; ...What+Matters." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I%27m+Guransh+Goyal;Exploring%2C+Building...;...What+Matters." alt="Typing SVG" />
 </div>
 
 <h3 align="center">A computer science student navigating both maps and machines.</h3>
